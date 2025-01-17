@@ -18,15 +18,15 @@ Welcome to the **2D Array Battle Game**, an exciting C++ adventure where you fig
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/2d-array-battle-game.git
+   git clone https://github.com/Ma7moud-Mansour/Cat-War.git
    ```
 2. Compile the game using a C++ compiler (e.g., g++):
    ```bash
-   g++ -o battle_game main.cpp
+   g++ -o Cat_War main.cpp
    ```
 3. Run the executable:
    ```bash
-   ./battle_game
+   ./Cat_War
    ```
 
 ## Contributions
